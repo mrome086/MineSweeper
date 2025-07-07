@@ -1,0 +1,12 @@
+open games: working
+player name: working
+radio buttons: working
+closing button: working
+menu Strip: Working
+Custom game: Semiworking
+Clock: not working
+Flags: not working
+Game pause not working
+Won/Lost: not working
+Closing Message: not working
+
